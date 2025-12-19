@@ -12,5 +12,8 @@
 			"database_name": "openapi-template-db",
 			"database_id": "88e26b89-2902-41a8-88bf-141ec8983795"
 		}
-	]
+	],
+	"vars": {
+		"MODELSCOPE_API_KEY": "ms-de998872-1422-490d-bbf2-b1bfff03c346"
+	}
 }
